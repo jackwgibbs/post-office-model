@@ -1,0 +1,8 @@
+maxQueueLength - 4
+numServicePoints - 5
+closingTime - 100
+customerArrivalMean - 2.0
+gammaToleranceTimeParameterA - 6.0
+gammaToleranceTimeParameterB - 0.5
+gammaServiceTimeParameterA - 3.0
+gammaServiceTimeParameterB - 0.5
